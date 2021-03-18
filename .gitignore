@@ -1,8 +1,3 @@
-/Control-5_Epochs.h5
-/Control-7_Epochs.h5
-/Control-8_Epochs.h5
-/Control-10_Epochs.h5
-/Control-20_Epochs.h5
 /assessment-images-raw
 /assessment-keys
 /assessment-mcqs
@@ -10,3 +5,9 @@
 /temp-assessment-images
 /temp-assessment-keys
 /training-images-raw
+/src/Control-5_Epochs.h5
+/src/Control-5_Epochs.h5
+/src/Control-7_Epochs.h5
+/src/Control-8_Epochs.h5
+/src/Control-10_Epochs.h5
+/src/Control-20_Epochs.h5
