@@ -32,8 +32,7 @@ for filename in filenames:
     print(pathImage)
 
     # Get answer key
-    assessmentId = filename.split("-")[0]
-    with open(assignmentKeysPath + assessmentId + '.csv', newline='') as f:
+    with open(assignmentKeysPath + "key" + '.csv', newline='') as f:
         reader = csv.reader(f)
         data = list(reader)
     [assessmentKeys] = data
